@@ -29,9 +29,11 @@ This project simulates a simplified log monitoring system similar to tools used 
 
 ## Project Structure
 
+```
 ai_log_analyzer/
-
+│
 ├── manage.py
+│
 ├── analyzer/
 │   ├── models.py
 │   ├── views.py
@@ -45,7 +47,9 @@ ai_log_analyzer/
 │   ├── urls.py
 │
 └── media/
-  └── logs/
+    └── logs/
+```
+
 
 ---
 
